@@ -27,3 +27,13 @@ let user={name:"john",age:30};
 let getscroe=score;
 
 console.log(typeof score);
+
+
+let gameName="gta13"
+gameName="gta5"
+console.log(gameName);
+
+const username="chandan"
+username="tiwari"
+console.log(username); // it will give error because we can not reassign the constanat variable
+
